@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 10 - Stacks and Queues Data Structures
+Lab 10 - Stacks and Queues Data Structures
 ====
 
 ## To Submit this Assignment
