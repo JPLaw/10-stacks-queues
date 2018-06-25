@@ -1,4 +1,4 @@
-Lab 10 - Stacks and Queues Data Structures
+[![Build Status](https://travis-ci.org/JPLaw/10-stacks-queues.svg?branch=master)](https://travis-ci.org/JPLaw/10-stacks-queues)Lab 10 - Stacks and Queues Data Structures
 ====
 
 ## To Submit this Assignment
