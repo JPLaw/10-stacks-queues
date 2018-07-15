@@ -38,10 +38,10 @@ describe('STACK pop', () => {
     stackTest.push(3);
     stackTest.push(2);
     stackTest.push(1);
-    expect(stackTest.pop()).toBe(1);
-    expect(stackTest.top).toBe(2);
-    expect(stackTest.pop()).toBe(2);
-    expect(stackTest.top).toBe(3);
+    expect(stackTest.pop()).toBe();
+    expect(stackTest.top).toBe(1);
+    expect(stackTest.pop()).toBe();
+    expect(stackTest.top).toBe(1);
   });
 });
 

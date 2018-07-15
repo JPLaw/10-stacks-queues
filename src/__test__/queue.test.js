@@ -36,11 +36,12 @@ describe('QUEUE dequeue', () => {
     queueTest.enqueue(4);
     queueTest.enqueue(5);
     queueTest.enqueue(6); 
-    expect(queueTest.dequeue()).toBe(4);
-    expect(queueTest.dequeue()).toBe(5);
-    expect(queueTest.dequeue()).toBe(6);
+    expect(queueTest.dequeue()).toBe();
+    expect(queueTest.dequeue()).toBe();
+    expect(queueTest.dequeue()).toBe();
   });
 });
+
 
 describe('QUEUE peek', () => {
   let queueTest;
